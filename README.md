@@ -11,7 +11,7 @@ docker run -d -p 5010:80 --name g-dash-gulden \
     -e GULDEN_MAXCONNECTIONS=60 \
     -e GULDEN_RPCUSER=gulden \
     -e GULDEN_RPCPASSWORD=randompassword \
-    jorijn/gdash-gulden-docker
+    jorijn/gdash-gulden
 ```
 
 After it's started, you can find G-DASH on http://IPOFYOURDOCKERHOST:5010/
