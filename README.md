@@ -19,3 +19,13 @@ After it's started, you can find G-DASH on http://IPOFYOURDOCKERHOST:5010/
 ## The configuration file
 Either you mount an empty file or download [this](https://github.com/Bastijn/g-dash/blob/master/config/config_sample.php) 
 one as an example. Be sure it's writable on your Docker host. G-DASH will manage the configuration from within the container.  
+
+## Setting up G-DASH
+```
+GuldenD location: /opt/gulden/gulden/
+Data location: /opt/gulden/datadir/
+RPC username: See docker run command
+RPC password: See docker run command
+Host address: 127.0.0.1
+Host port: 9232
+```
