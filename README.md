@@ -29,3 +29,6 @@ RPC password: See docker run command
 Host address: 127.0.0.1
 Host port: 9232
 ```
+
+## Are you happy with this image?
+Do you use this Docker image with pleasure? Consider sending some Guldens to [GUgdWaBhY5MJsk3yFZxhtaQ7VqC2JFdEXu](gulden:GUgdWaBhY5MJsk3yFZxhtaQ7VqC2JFdEXu).
